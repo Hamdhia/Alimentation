@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.s1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    
+}
+.para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    
+}
+
+.petitpara{
+    font-size: 29px ; width: 50% ; height: auto; border: 3px solid #eb7371; padding: 10px; text-align: center; border-radius: 20px;
+}
+.s2{
+    background-color: #eb7371;
+    justify-content: center;
+    gap: 60px;
+    display: flex;
+    flex-direction: row;
+    min-height: 400px;
+    align-items: center;
+
+}
+.trec{
+    border-radius: 20px;
+    text-align: center;
+    padding: 60px; 
+    background-color: #eb7371;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.cardf{
+    margin-top: 20px;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+.ima2{
+    border-radius: 100%;
+    width: 80px;
+    margin-bottom: -50px;
+    z-index: 5;
+    
+}
+.socialt{
+    background-color:  #eb7371;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 400px;
+    width:auto ;
+    min-height:450px ;
+    align-items: center;
+    gap: 70px;
+   
+}
+
+/* Footer */
+
+.s3{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: #0C738E;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.para5{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+  }
+  .s4{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+  }
+  .para6{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    
+  }
+  .s5{
+    background-color:  #0C738E;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+    }
+    footer {
+        background-image: url(image/image3.jpg);
+        background-size: cover;
+        width: 100%;
+        height: 400px;
+    }
+    
+    .fertig {
+        display: flex;
+        background-color: rgba(20, 11, 11, 0.61);
+        flex-direction: row;
+        text-align: center;
+        width: 100%;
+        height: 400px;
+    
+    }
+    
+    .finish {
+        color: white;
+        margin-left: 150px;
+        margin-top: 120px;
+        font-size: 30px;
+    }
